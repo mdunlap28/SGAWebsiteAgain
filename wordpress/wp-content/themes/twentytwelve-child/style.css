@@ -1,0 +1,17 @@
+/*
+Theme Name:     Twenty Eleven Child
+Theme URI:      http://localhost/WordPress/wordpress/
+Description:    Child theme for the Twenty Twelve theme 
+Author:         Marcey, David and Mike
+Author URI:     http://example.com/about/
+Template:       twentytwelve
+Version:        0.1.0
+*/
+
+.`main-navigation li a:hover {
+color: #FF0000;
+}
+
+.main-navigation li a {
+color: #FFFFFF;
+}`
