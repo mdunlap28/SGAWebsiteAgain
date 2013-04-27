@@ -7,7 +7,9 @@
 
 /* =bbPress Style
 -------------------------------------------------------------- */
-
+div.bbp-submit-wrapper {
+float: left;
+}
 #bbpress-forums hr {
 	margin: 0 0 24px 0;
 }
@@ -16,7 +18,7 @@
 	background: transparent;
 	clear: both;
 	margin-bottom: 20px;
-	overflow: hidden;
+
 	font-size: 12px;
 }
 
