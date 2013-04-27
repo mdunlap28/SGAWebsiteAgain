@@ -16,13 +16,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'WordPress_DB');
+define('DB_NAME', 'S12-CPSC348_mdunlap');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'mdunlap');
 
 /** MySQL database password */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', 'pixie');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
@@ -50,7 +50,7 @@ define('AUTH_SALT',        'put your unique phrase here');
 define('SECURE_AUTH_SALT', 'put your unique phrase here');
 define('LOGGED_IN_SALT',   'put your unique phrase here');
 define('NONCE_SALT',       'put your unique phrase here');
-
+define('WPCF7_UPLOADS_TMP_DIR', 'rosemary.umw.edu/~mdunlap/umwsga/wordpress/wp-content/uploads/wpcf7_uploads');
 /**#@-*/
 
 /**
